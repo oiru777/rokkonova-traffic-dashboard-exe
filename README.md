@@ -1,0 +1,1 @@
+元のReactのソースコーぢにelectron.js追加+package.json変更
