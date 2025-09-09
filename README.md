@@ -1,1 +1,1 @@
-元のReactのソースコーぢにelectron.js追加+package.json変更
+元のReactのソースコードにelectron.js追加+package.json変更
