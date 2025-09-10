@@ -1,4 +1,4 @@
-# ビルド用レポジトリ
+# React&electronでデスクトップアプリ
 元のReactのソースコードにelectron.js追加+package.json変更
 
 ## windows用.exeビルド
