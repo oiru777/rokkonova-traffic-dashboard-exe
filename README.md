@@ -1,7 +1,11 @@
-# .exeビルド用
+# ビルド用レポジトリ
 元のReactのソースコードにelectron.js追加+package.json変更
 
-## ビルド
+## windows用.exeビルド
 ```
 npx electron-builder --win
+```
+## macOS用.dmgビルド
+```
+npx electron-builder --mac
 ```
